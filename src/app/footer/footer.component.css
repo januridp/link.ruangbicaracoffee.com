@@ -1,0 +1,11 @@
+footer {
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    line-height: 20px;
+    white-space: pre;
+    margin: 82px auto 32px;
+    padding: 0 16px;
+    max-width: 50%;
+    /* flex-direction: column; */
+}
