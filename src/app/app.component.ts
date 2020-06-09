@@ -28,5 +28,5 @@ export class AppComponent {
   faGoogle = faGoogle;
   faFacebookSquare = faFacebookSquare;
   faGlobe = faGlobe;
-  title = 'Ruang Bicara Coffee';
+  title = 'Ruang Bicara Kopi';
 }
