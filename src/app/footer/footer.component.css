@@ -9,3 +9,11 @@ footer {
     max-width: 50%;
     /* flex-direction: column; */
 }
+
+@media screen and (max-width: 575px) {
+    footer {
+        display: flex;
+        flex-direction: column;
+        font-size: small;
+    }
+}
