@@ -6,9 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [![Build Status](https://travis-ci.com/januridp/link.ruangbicaracoffee.com.svg?branch=master)](https://travis-ci.com/januridp/link.ruangbicaracoffee.com)
 
-## Code scaffolding
+## Coverage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[![Coverage Status](https://coveralls.io/repos/github/januridp/link.ruangbicaracoffee.com/badge.svg?branch=master)](https://coveralls.io/github/januridp/link.ruangbicaracoffee.com?branch=master)
 
 ## Build
 
