@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Build
 
-[![Build Status](https://travis-ci.org/januridp/link.ruangbicaracoffee.com.svg?branch=master)](https://travis-ci.org/januridp/link.ruangbicaracoffee.com)
+[![Build Status](https://travis-ci.com/januridp/link.ruangbicaracoffee.com.svg?branch=master)](https://travis-ci.com/januridp/link.ruangbicaracoffee.com)
 
 ## Code scaffolding
 
