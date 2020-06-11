@@ -8,7 +8,6 @@ before_script:
 
 script:
   - ng build --prod
-  - cd ./dist/rav/ && ls -la
 
 deploy:
   provider: pages
