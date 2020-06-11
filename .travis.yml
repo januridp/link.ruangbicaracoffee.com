@@ -6,6 +6,10 @@ before_script:
   - npm install -g @angular/cli
   - ng version
 
+script:
+  - ng build --prod
+  - cd ./dist/rav/ && ls -la
+
 deploy:
   provider: pages
   skip_cleanup: true
